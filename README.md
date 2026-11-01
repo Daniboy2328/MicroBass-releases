@@ -38,7 +38,9 @@ Em **Advanced** ficam o ganho de entrada, o nível de saída e o oversampling (2
 ## Dicas
 
 - Toque uma nota de cada vez: o circuito é monofônico, como o original.
-- Ajuste o **Input Gain** para o LED de TRIGGER acender a cada ataque.
+- Se o filtro não recomeça a varredura a cada nota, suba o **TRIGGER**; se "picota" em acordes, abaixe.
+- O LED vermelho fica aceso com o efeito ligado; o footswitch liga e desliga (bypass).
+- Passe o mouse num fader para ver o valor; duplo clique volta ao padrão.
 - START = STOP congela o filtro numa frequência fixa.
 
 ## Problemas e sugestões
